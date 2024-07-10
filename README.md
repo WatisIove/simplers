@@ -1,6 +1,8 @@
 # simplers
 simplers - Simple Reverse Shell
 
+Windows Only.
+
 # Usage
 - Compile Project
 - On the remote host start `nc -lvnp <port>`
