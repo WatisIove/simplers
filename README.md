@@ -8,4 +8,4 @@ Windows Only.
 - On the remote host start `nc -lvnp <port>`
 - Start simplers.exe
 
-If you want to change the path for storing commands and output, you can change it in the inputfile.cs file.
+If you want to change the path for storing commands and output, you can change it in the `inputfile.cs` file.
